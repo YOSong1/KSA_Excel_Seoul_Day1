@@ -1,6 +1,8 @@
 ## 한국표준협회 KSA ChatGPT를 활용한 엑셀 데이터 분석 공유 자료실
 
 
+### https://catherine-song-ai-lab-2026.b5sxbxsghj.chatgpt.site
+
 ### 샘플 활용법
 - 각 모듈에서 활용될 수 있는 샘플을 먼저 이용하면서 본인의 자료에 어떻게 이용할 것 인지를 찾아내는데 이용하세요.
 
